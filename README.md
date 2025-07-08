@@ -33,15 +33,14 @@ Les données analysées contiennent des informations détaillées sur les applic
  Lien :  https://drive.google.com/file/d/1REPqYSx3KfQxC1VZLc2Srlju6UdTqZAB/view?usp=drive_link    
 
 ##   Résumé du Projet
-This project demonstrates an end-to-end data analytics workflow, integrating Excel, SQL, Python, and Power BI to extract insights from EdTech app data.
+Ce projet met en œuvre un workflow complet de Data Analytics, intégrant des outils variés pour :
+ ## Compétences mises en pratique :
 
-** Compétences mises en pratique :**
-
-  **✅ Data Cleaning (Excel, SQL)**
+  **✅ Nettoyer les données (Excel, SQL)**
   
-  **✅ Analyse exploratoire (Python, SQL)**
+  **✅ Analyser et explorer les données (Python)**
   
-  **✅ Machine Learning : K-Means Clustering**
+  **✅ Appliquer des algorithmes de clustering pour identifier des segments de marché**
   
   **✅ Data Visualisation (Power BI)**
   
