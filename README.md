@@ -1,52 +1,51 @@
 # 📊 EdTech App Market Analysis
 
-## 📌 Overview  
-This project is a **comprehensive data analytics study** of the EdTech app market. It covers **data cleaning, exploratory analysis, SQL querying, machine learning clustering, and interactive dashboard visualization** using **Excel, SQL Server, Python, and Power BI**.
+## Overview  
+Ce projet est une étude complète d’analyse de marché visant à extraire des insights stratégiques à partir de données réelles d’applications. J’ai combiné des compétences en Data Cleaning, Analyse Exploratoire, Machine Learning (Clustering) et Visualisation interactive avec Power BI.
+L’objectif est de segmenter le marché et d’identifier des groupes d’apps ou de clients en fonction de leurs performances, pour permettre une meilleure prise de décision.
 
-## 🚀 Key Objectives  
-✅ Understand EdTech market trends through **installs, ratings, reviews, and scores**.  
-✅ Use **SQL queries** to derive insights on app performance and user engagement.  
-✅ Apply **K-Means clustering** in Python to classify apps into performance groups.  
-✅ Create a **Power BI dashboard** to visualize key insights interactively.  
-
----
-
-## 🔧 Technologies Used  
-- 🟢 **Excel** – Data Cleaning  
-- 🟠 **SQL Server** – Data Storage & Querying  
-- 🔵 **Python** – Exploratory Data Analysis (EDA) & Machine Learning  
-- 🟣 **Power BI** – Dashboard Visualization  
+##   Objectifs du Projet
+- Comprendre les tendances du marché à travers les données (installations, notes, avis, taille, versions).
+- Utiliser des requêtes SQL pour extraire et structurer les données pertinentes.
+- Appliquer des algorithmes de clustering (K-Means) en Python pour identifier des groupes homogènes.
+- Créer un dashboard Power BI pour visualiser les résultats de manière interactive et accessible.
 
 ---
 
-## 📂 Dataset Overview  
-The dataset consists of EdTech app details, including:  
-📌 **App Installs**  
-📌 **App Scores & Ratings**  
-📌 **Number of Reviews**  
-📌 **App Size (MB)**  
-📌 **Android Version**  
+##  Technologies et Outils Utilisés 
+- 🟢 **Excel** – Nettoyage et préparation initiale des données
+- 🟠 **SQL Server** – Stockage, manipulation et extraction des données
+- 🔵 **Python** – Analyse exploratoire, clustering (K-Means)
+- 🟣 **Power BI** –	Visualisation des résultats et création de tableaux de bord
 
----
+## 📂 Données Utilisées
+Les données analysées contiennent des informations détaillées sur les applications telles que :
+- Nombre d'installations
+- Scores et évaluations
+- Nombre de commentaires
+- Taille de l’application
+- Version Android
 
-## 📊 Power BI Dashboard
-📌 Live Dashboard Link: (https://shorturl.at/V3HUM)
-## 📝 project Documentation/Report 
-📌 Link :  https://drive.google.com/file/d/1REPqYSx3KfQxC1VZLc2Srlju6UdTqZAB/view?usp=drive_link    
 
-## 🏆 Project Summary
+##   Tableau de Bord Power BI
+-->  Tableau de Bord Power BI (https://shorturl.at/V3HUM)
+##  Documentation du Projet
+ Lien :  https://drive.google.com/file/d/1REPqYSx3KfQxC1VZLc2Srlju6UdTqZAB/view?usp=drive_link    
+
+##   Résumé du Projet
 This project demonstrates an end-to-end data analytics workflow, integrating Excel, SQL, Python, and Power BI to extract insights from EdTech app data.
 
-**📌 Skills Used:**
+** Compétences mises en pratique :**
 
   **✅ Data Cleaning (Excel, SQL)**
   
-  **✅ Exploratory Data Analysis (Python, SQL)**
+  **✅ Analyse exploratoire (Python, SQL)**
   
-  **✅ K-Means Clustering (Python ML)**
+  **✅ Machine Learning : K-Means Clustering**
   
-  **✅ Data Visualization (Power BI)**
+  **✅ Data Visualisation (Power BI)**
   
-
-This analysis provides valuable insights for EdTech businesses, developers, and investors looking to understand user behavior and optimize their apps for better engagement.
-
+## Ce projet fournit des insights précieux pour toute entreprise souhaitant : 
+- Comprendre les comportements des utilisateurs
+- Identifier les segments performants ou à risque
+- Améliorer l’engagement et la performance produit
